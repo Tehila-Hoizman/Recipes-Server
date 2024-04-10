@@ -1,0 +1,84 @@
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים - גרסה 2\c#\recipes\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#\recipes\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\106\Desktop\c#\recipes\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\106\Desktop\c#\recipes\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\106\Desktop\c#\recipes\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\106\Desktop\c#\recipes\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\106\Desktop\c#\recipes\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\106\Desktop\c#\recipes\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\106\Desktop\c#\recipes\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\106\Desktop\c#\recipes\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\106\Desktop\c#\recipes\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\106\Desktop\c#\recipes\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\106\Desktop\c#\recipes\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\106\Desktop\c#\recipes\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\106\Desktop\פרויקט מתכונים\c#\recipes\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\106\Desktop\פרויקט מתכונים\c#\recipes\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\106\Desktop\פרויקט מתכונים\c#\recipes\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\106\Desktop\פרויקט מתכונים\c#\recipes\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\106\Desktop\פרויקט מתכונים\c#\recipes\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\106\Desktop\פרויקט מתכונים\c#\recipes\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\106\Desktop\פרויקט מתכונים\c#\recipes\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\106\Desktop\פרויקט מתכונים\c#\recipes\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\106\Desktop\פרויקט מתכונים\c#\recipes\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\106\Desktop\פרויקט מתכונים\c#\recipes\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\106\Desktop\פרויקט מתכונים\c#\recipes\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\106\Desktop\פרויקט מתכונים\c#\recipes\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#-obj\recipes\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#-obj\recipes\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#-obj\recipes\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#-obj\recipes\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#-obj\recipes\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#-obj\recipes\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#-obj\recipes\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#-obj\recipes\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#-obj\recipes\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#-obj\recipes\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#-obj\recipes\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\ממוין\תיכנות יד\פרויקט מתכונים\c#-obj\recipes\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט-גיט\server\recipes-server\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט-גיט\server\recipes-server\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט-גיט\server\recipes-server\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט-גיט\server\recipes-server\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט-גיט\server\recipes-server\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט-גיט\server\recipes-server\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט-גיט\server\recipes-server\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט-גיט\server\recipes-server\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט-גיט\server\recipes-server\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט-גיט\server\recipes-server\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט-גיט\server\recipes-server\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\תהילה\OneDrive\שולחן העבודה\פרויקט-גיט\server\recipes-server\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\PC\Desktop\פרויקט מתכונים\recipes-server-main\recipes-server-main\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\PC\Desktop\פרויקט מתכונים\recipes-server-main\recipes-server-main\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\PC\Desktop\פרויקט מתכונים\recipes-server-main\recipes-server-main\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\PC\Desktop\פרויקט מתכונים\recipes-server-main\recipes-server-main\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\פרויקט מתכונים\recipes-server-main\recipes-server-main\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\פרויקט מתכונים\recipes-server-main\recipes-server-main\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\פרויקט מתכונים\recipes-server-main\recipes-server-main\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\PC\Desktop\פרויקט מתכונים\recipes-server-main\recipes-server-main\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\פרויקט מתכונים\recipes-server-main\recipes-server-main\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\PC\Desktop\פרויקט מתכונים\recipes-server-main\recipes-server-main\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\PC\Desktop\פרויקט מתכונים\recipes-server-main\recipes-server-main\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\PC\Desktop\פרויקט מתכונים\recipes-server-main\recipes-server-main\Repository\obj\Debug\net6.0\ref\Repository.dll
